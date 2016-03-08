@@ -1,0 +1,12 @@
+global.h		
+global.cpp		...used to keep global variables
+codegen.cpp		...used to generate mips code
+codegen.h
+treeNode.h
+lex.yy.c
+mylexer.l
+myparse.y
+makefile
+Report.pdf
+
+others files are not so important.
