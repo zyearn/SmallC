@@ -8,5 +8,3 @@ mylexer.l
 myparse.y
 makefile
 Report.pdf
-
-others files are not so important.
